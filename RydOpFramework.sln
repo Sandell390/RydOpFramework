@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RydOpFramework", "RydOpFramework\RydOpFramework.csproj", "{D7CD1AB0-1210-4FAF-ADA1-AC4C5524C269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7CD1AB0-1210-4FAF-ADA1-AC4C5524C269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CD1AB0-1210-4FAF-ADA1-AC4C5524C269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CD1AB0-1210-4FAF-ADA1-AC4C5524C269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CD1AB0-1210-4FAF-ADA1-AC4C5524C269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3182168C-7AC7-4B19-A2DC-B6E69D8DAA3E}
+	EndGlobalSection
+EndGlobal
